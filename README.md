@@ -12,6 +12,9 @@
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/NXplosive"><img width="40px" alt="Telegram" title="Telegram" src="assets/social_networks/tg.gif"/></a>
+ &#8287;  
+  <a href="mailto:xicat5000@gmail.com?Subject=Hello%20again"><img width="40px" alt="Write me Email" title="Gmail" src="assets/social_networks/gmail.gif"/></a>
+  &#8287;
 </p>
 
 &#8287;
