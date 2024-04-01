@@ -5,7 +5,7 @@
 
 ## About me
 - 👨‍💻 I'm manual and automation Engineer from Moscow.
-- 🚀 I work QA over 2 years.
+- 🚀 I work QA over 3 years.
 - 🐍 I write autotests in Python.
 - 📬 Email: xicat5000@yandex.ru
 
