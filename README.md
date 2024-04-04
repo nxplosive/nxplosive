@@ -74,8 +74,12 @@
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :bar_chart:Git stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nxplosive&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nxplosive&theme=tokyonight) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxplosive&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nxplosive&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nxplosive&theme=radical) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxplosive&theme=radical)
+
+<p  align="left">  
+  <code><img width="25%" title="Jira" src="assets/lora.png"></code>
+</p>
 
 ![Profile_views](https://komarev.com/ghpvc/?username=nxplosive&color=brightgreen&style=for-the-badge)
