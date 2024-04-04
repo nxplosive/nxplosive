@@ -1,4 +1,4 @@
-# Welcome here, I'm Nikita! 👋
+# Welcome here, I'm Nikita. 👋
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=I'm+a+QA+Engineer+)](https://git.io/typing-svg)
@@ -18,7 +18,7 @@
 </p>
 
 &#8287;
-## QA manual tools:
+## 💻QA manual tools
 <p  align="center">  
   <code><img width="5%" title="Jira" src="assets/qa_manual/jira.png"></code>
   <code><img width="5%" title="Google DevTools" src="assets/qa_manual/devtools_google.jpg"></code>
@@ -38,7 +38,7 @@
 </p>
 
 &#8287;&#8287;&#8287;&#8287;
-## QA automation languages and tools:
+## 💻QA automation languages and tools
 <p  align="center">
   <code><img width="5%" title="VS Code" src="assets/qa_automation/vscode.png"></code>
   <code><img width="5%" title="Pycharm" src="assets/qa_automation/pycharm.png"></code>
@@ -63,20 +63,18 @@
 </p>
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
-## Certificates:
+## 👨‍🎓 Education
 
-<div style="text-align: center;"><img src="assets/Safonov_Nikita.png" alt="Certificate" /></div>
-
-<table width="100%" border='0'>
+<table width=100%" border='0'>
     <tr><td width="30%" valign="bottom"><img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/b635b6cb9478bb87c77e9c070ee6e122.png/s/x50/a/159627/sc/207"></td><td valign="middle">QA automation engineer school <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :bar_chart:Git stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nxplosive&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nxplosive&theme=radical) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxplosive&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nxplosive&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nxplosive&theme=vue) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxplosive&theme=vue)
 
 <p  align="left">  
   <code><img width="20%" title="Jira" src="assets/lora.png"></code>
