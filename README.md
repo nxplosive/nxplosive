@@ -77,7 +77,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxplosive&theme=vue)
 
 <p  align="left">  
-  <code><img width="20%" title="Jira" src="assets/lora.png"></code>
+  <code><img width="20%" title="Lora" src="assets/lora.png"></code>
 </p>
 
 ![Profile_views](https://komarev.com/ghpvc/?username=nxplosive&color=brightgreen&style=for-the-badge)
