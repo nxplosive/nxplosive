@@ -8,13 +8,15 @@
 - 🚀 I work QA over 3 years.
 - 🐍 I write autotests in Python.
 - 📬 Email: xicat5000@yandex.ru
+- 📑 <a target="_blank" href="assets/CV/CV.pdf">CV</a>
 
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/NXplosive"><img width="40px" alt="Telegram" title="Telegram" src="assets/social_networks/tg.gif"/></a>
- &#8287;  
+  &#8287;  
   <a href="mailto:xicat5000@gmail.com?Subject=Hello%20again"><img width="40px" alt="Write me Email" title="Gmail" src="assets/social_networks/gmail.gif"/></a>
   &#8287;
+  <a href="https://nxplosive.github.io"><img width="40px" alt="Visiting card" title="Cite" src="assets/social_networks/visiting_card.gif"/></a>
 </p>
 
 &#8287;
